@@ -13,10 +13,10 @@ TEMPLATES_FILE_LIST = {
 }
 
 account_configure = {
-    "1001000016": {
-        "src_dir": os.path.join("E:\\", "Works", "Trade", "Reports_Equity", "output"),
-        "chs_name": "国轩高科托管项目",
-    },
+    # "1001000016": {
+    #     "src_dir": os.path.join("E:\\", "Works", "Trade", "Reports_Equity", "output"),
+    #     "chs_name": "国轩高科托管项目",
+    # },
     "1003000010": {
         "src_dir": os.path.join("E:\\", "Works", "Trade", "Reports_Equity2", "output"),
         "chs_name": "小康股份托管项目",

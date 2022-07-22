@@ -12,6 +12,6 @@ OUTPUT_DIR = os.path.join(ROOT_DIR, "output")
 TEMPLATES_DIR = os.path.join(ROOT_DIR, "templates")
 
 src_output_dir = {
-    "1001000016": os.path.join("E:", "Works", "Trade", "Reports_Equity", "output"),
+    # "1001000016": os.path.join("E:", "Works", "Trade", "Reports_Equity", "output"),
     "1003000010": os.path.join("E:", "Works", "Trade", "Reports_Equity2", "output"),
 }
